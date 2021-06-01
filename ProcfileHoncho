@@ -1,1 +1,1 @@
-go: cd server &&  pip install golang && go run main.go
+go: cd server && go run main.go
